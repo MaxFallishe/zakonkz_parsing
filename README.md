@@ -3,7 +3,7 @@ Project parsing current news from the site zakon.kz using selenium
 
 ## Getting Started
 
-To deploy project on Windows download a copy of the repository and install all the dependencies indicated in the file requirements.txt, when deploying a project to Linux, you may have to resolve conflicts with the web driver 
+To deploy project on Windows download a copy of the repository and install all the dependencies indicated in the file requirements.txt and run main.py, when deploying a project to Linux, you may have to resolve conflicts with the web driver 
 
 ## Additional Information
 
