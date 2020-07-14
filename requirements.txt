@@ -1,8 +1,14 @@
-Collecting freeze
-  Downloading https://files.pythonhosted.org/packages/1e/34/2542d6f2ed6c4ba3a7830040bb216afb9fcd485bffbf0f3b39ae273f6301/freeze-3.0.tar.gz (188kB)
-Collecting six (from freeze)
-  Using cached https://files.pythonhosted.org/packages/ee/ff/48bde5c0f013094d729fe4b0316ba2a24774b3ff1c52d924a8a4cb04078a/six-1.15.0-py2.py3-none-any.whl
-Installing collected packages: six, freeze
-  Running setup.py install for freeze: started
-    Running setup.py install for freeze: finished with status 'done'
-Successfully installed freeze-3.0 six-1.15.0
+beautifulsoup4==4.9.1
+certifi==2020.6.20
+chardet==3.0.4
+et-xmlfile==1.0.1
+freeze==3.0
+idna==2.10
+jdcal==1.4.1
+lxml==4.5.2
+openpyxl==3.0.4
+requests==2.24.0
+selenium==3.141.0
+six==1.15.0
+soupsieve==2.0.1
+urllib3==1.25.9
